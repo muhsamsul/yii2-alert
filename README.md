@@ -1,6 +1,6 @@
 yii2-alert
 ==========
-coba coba
+in extension yii2 testing
 
 Installation
 ------------
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \muhsamsul\alert\AutoloadExample::widget(); ?>```
+<?= \muhsamsul\alert\Alert::widget(); ?>```
