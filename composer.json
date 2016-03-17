@@ -1,0 +1,21 @@
+{
+    "name": "muhsamsul/yii2-alert",
+    "description": "coba coba",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "muhsamsul",
+            "email": "samsulhuda461@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "muhsamsul\\alert\\": ""
+        }
+    }
+}
